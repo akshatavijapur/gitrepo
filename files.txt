@@ -1,0 +1,165 @@
+ 1  Aug/08 - 06:42:44 pwd
+    2  Aug/08 - 06:42:54 kubectl get pods
+    3  Aug/08 - 06:43:37 sudo ls -tlr /etc/kube*
+    4  Aug/08 - 06:43:59 pwd
+    5  Aug/08 - 06:44:02 cd ..
+    6  Aug/08 - 06:44:06 ls
+    7  Aug/08 - 06:44:48 nslookup ipsawdvpvftst01
+    8  Aug/08 - 06:44:58 ls ltr
+    9  Aug/08 - 06:45:02 ls -ltr
+   10  Aug/08 - 06:45:29 cd gule.arman/
+   11  Aug/08 - 06:45:36 cd akshata.vijapur/
+   12  Aug/08 - 06:45:40 pwd
+   13  Aug/08 - 06:45:42 ls
+   14  Aug/08 - 06:45:53 cd ..
+   15  Aug/08 - 06:45:55 ls
+   16  Aug/08 - 06:46:00 cd ..
+   17  Aug/08 - 06:46:02 ll
+   18  Aug/08 - 06:46:13 cd usr/
+   19  Aug/08 - 06:46:16 ll
+   20  Aug/08 - 06:46:19 cd bin
+   21  Aug/08 - 06:46:21 ll
+   22  Aug/08 - 06:47:13 ps -ef
+   23  Aug/08 - 06:47:33 kubectl get pods
+   24  Aug/10 - 04:20:52 pwd
+   25  Aug/10 - 04:20:54 cd ..
+   26  Aug/10 - 04:20:59 ls -ltr
+   27  Aug/10 - 04:28:28 cd ec2-user/
+   28  Aug/10 - 04:28:29 ll
+   29  Aug/10 - 04:28:32 cd ..
+   30  Aug/10 - 04:28:40 ll
+   31  Aug/10 - 04:28:55 cd sf3fs
+   32  Aug/10 - 04:29:04 cd s3fs/
+   33  Aug/10 - 04:29:05 ll
+   34  Aug/10 - 04:29:16 cd pvfirst-
+   35  Aug/10 - 04:29:19 cd pvfirst-test/
+   36  Aug/10 - 04:29:20 ll
+   37  Aug/10 - 04:29:25 cd literature/
+   38  Aug/10 - 04:29:27 ll
+   39  Aug/10 - 04:29:33 cd in-progress/
+   40  Aug/10 - 04:29:34 ll
+   41  Aug/10 - 04:29:45 pwd
+   42  Aug/10 - 04:30:48 cd ..
+   43  Aug/10 - 04:30:52 ll
+   44  Aug/10 - 04:30:55 cd cioms/
+   45  Aug/10 - 04:30:56 ll
+   46  Aug/10 - 04:31:51 cd ..
+   47  Aug/10 - 04:31:52 ll
+   48  Aug/10 - 04:31:55 cd ..
+   49  Aug/10 - 04:31:56 ll
+   50  Aug/10 - 04:32:07 cd pvfirst-archive-test/
+   51  Aug/10 - 04:32:07 ll
+   52  Aug/10 - 04:32:18 cd cioms/
+   53  Aug/10 - 04:32:20 ll
+   54  Aug/10 - 04:32:27 cd processed/
+   55  Aug/10 - 04:32:28 ll
+   56  Aug/10 - 23:33:59 kubectl get pods
+   57  Aug/10 - 23:35:16 kubectl get pods
+   58  Aug/10 - 23:36:32 pwd
+   59  Aug/10 - 23:36:37 ls -lte
+   60  Aug/10 - 23:36:40 ls -ltr
+   61  Aug/10 - 23:56:32 clear
+   62  Aug/10 - 23:56:39 kubectl get pods
+   63  Aug/11 - 01:53:55 docker ps
+   64  Aug/11 - 02:01:40 docker describe d37533b4709d
+   65  Aug/11 - 02:01:43 help
+   66  Aug/11 - 04:24:22 pwd
+   67  Aug/11 - 04:24:35 cd /etc/
+   68  Aug/11 - 04:24:37 ll
+   69  Aug/11 - 04:24:48 cd kubernetes/
+   70  Aug/11 - 04:24:49 ll
+   71  Aug/11 - 04:24:56 pwd
+   72  Aug/11 - 04:27:20 cd
+   73  Aug/11 - 03:55:59 kubectl get pods
+   74  Aug/11 - 03:56:32 cd /etc/
+   75  Aug/11 - 03:56:37 ls -ltr
+   76  Aug/11 - 03:57:03 cd kubernetes/
+   77  Aug/11 - 03:57:05 ls
+   78  Aug/11 - 03:57:10 ls -ltr
+   79  Aug/11 - 03:57:30 cp admin.conf /home/akshata.vijapur/
+   80  Aug/11 - 03:57:35 cd
+   81  Aug/11 - 03:57:37 pwd
+   82  Aug/11 - 03:57:41 ls -ltr
+   83  Aug/11 - 03:57:53 kubectl get pods
+   84  Aug/11 - 03:59:37 ls -a
+   85  Aug/11 - 04:01:33 export KUBECONFIG=$HOME/admin.conf
+   86  Aug/11 - 04:01:43 kubectl get pods
+   87  Aug/11 - 04:02:13 cat .bash_profile
+   88  Aug/11 - 04:02:40 vi .bash_profile
+   89  Aug/11 - 04:04:11 ll
+   90  Aug/11 - 04:04:42 pwd
+   91  Aug/11 - 04:04:47 ll
+   92  Aug/11 - 04:05:53 cd /etc/kubernetes/
+   93  Aug/11 - 04:05:56 ls -ltr
+   94  Aug/11 - 04:06:00 ll
+   95  Aug/11 - 04:07:08 vi .bash_profile
+   96  Aug/11 - 04:07:26 cd ..
+   97  Aug/11 - 04:07:30 pwd
+   98  Aug/11 - 04:08:02 cd
+   99  Aug/11 - 04:08:07 pwd
+  100  Aug/11 - 04:08:28 vi .bash_profile
+  101  Aug/11 - 04:09:19 kp
+  102  Aug/11 - 04:09:26 vi .bash_profile
+  103  Aug/11 - 04:10:09 kp
+  104  Aug/11 - 04:10:13 vi .bash_profile
+  105  Aug/11 - 04:11:20 kubectl get pods
+  106  Aug/11 - 04:11:37 kubectl logs -f services-documentservices-442255177-0qvl4
+  107  Aug/11 - 05:27:30 clear
+  108  Aug/11 - 05:27:36 kubectl get pods
+  109  Aug/11 - 05:30:15 kubectl logs -f services-documentservices-442255177-0qvl4
+  110  Aug/11 - 05:49:55 ls -ltr |grep "*s2"
+  111  Aug/11 - 05:50:09 cd ..
+  112  Aug/11 - 05:50:11 ls
+  113  Aug/11 - 05:50:16 cd ..
+  114  Aug/11 - 05:50:17 ll
+  115  Aug/11 - 05:50:24 cd s3fs/
+  116  Aug/11 - 05:50:25 ll
+  117  Aug/11 - 05:50:32 cd pvfirst-test/
+  118  Aug/11 - 05:50:34 ll
+  119  Aug/11 - 05:50:38 cd cioms/
+  120  Aug/11 - 05:50:40 ll
+  121  Aug/11 - 05:50:58 cd ..
+  122  Aug/11 - 05:51:02 cd literature/
+  123  Aug/11 - 05:51:03 ll
+  124  Aug/11 - 05:51:23 ls -ltr |grep "*S2*"
+  125  Aug/11 - 05:51:27 CD ..
+  126  Aug/11 - 05:51:30 cd ..
+  127  Aug/11 - 05:51:35 ls -ltr |grep "*S2*"
+  128  Aug/11 - 05:51:43 pwd
+  129  Aug/11 - 05:51:52 cd cioms/
+  130  Aug/11 - 05:51:54 ll
+  131  Aug/11 - 05:52:07 ls -ltr |grep "*S2*"
+  132  Aug/11 - 05:52:30 kubectl get pods
+  133  Aug/11 - 05:52:57 kubectl exec -ti services-documentservices-442255177-0qvl4 sh
+  134  Aug/11 - 06:25:12 kubectl get pods
+  135  Aug/11 - 06:28:14 kubectl exec -ti services-documentservices-442255177-0qvl4 sh
+  136  Aug/11 - 06:31:12 ssh 10.48.5.75
+  137  Aug/11 - 06:40:00 history | tail -30
+  138  Aug/11 - 06:40:10 history | tail -300
+  139  Aug/11 - 06:40:41 cat .bash_profile
+  140  Aug/11 - 06:41:31 pwd
+  141  Aug/11 - 06:41:33 ll
+  142  Aug/11 - 06:42:40 cd etc
+  143  Aug/11 - 06:42:45 cd /etc
+  144  Aug/11 - 06:42:47 ll
+  145  Aug/11 - 06:44:59 cat bash_profile
+  146  Aug/11 - 06:45:15 cd
+  147  Aug/11 - 06:45:18 ll
+  148  Aug/11 - 06:45:35 vi bash_profile
+  149  Aug/11 - 06:45:45 ll
+  150  Aug/11 - 06:45:49 cd ..
+  151  Aug/11 - 06:45:52 ll
+  152  Aug/11 - 06:45:55 cd ..
+  153  Aug/11 - 06:45:56 ll
+  154  Aug/11 - 06:46:50 cd ..
+  155  Aug/11 - 06:46:53 ll
+  156  Aug/11 - 06:47:00 cd root/
+  157  Aug/11 - 06:47:01 ll
+  158  Aug/11 - 06:47:12 cd usr/
+  159  Aug/11 - 06:47:13 ll
+  160  Aug/11 - 07:05:35 find . -name '*bash*'
+  161  Aug/11 - 07:05:44 cd ./.bash_profile
+  162  Aug/11 - 07:05:56 cd ./bash_profile
+  163  Aug/11 - 07:06:40 find . -name '*bash*'
+  164  Aug/11 - 07:07:30 vi bash_profile
+  165  Aug/11 - 07:07:46 history |tail -300
